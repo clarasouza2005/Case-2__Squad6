@@ -1,4 +1,4 @@
-   # 🗺️ CRUD-API
+   # 🗺️    APP COM CRUD 
    
    Trabalho desenvolvido em squad para o módulo 5 do curso de Desenvolvedor Fullstack - Programadores Cariocas.
    
